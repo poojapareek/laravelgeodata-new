@@ -16,7 +16,7 @@ Runs on URL: http://127.0.0.1:8000/downloadgeolocation-csv
 Click on Download button to download CSV file.
 
 ## Project Basic Requirements
-Laravel 10
+Laravel 10, 
 PHP 8.2+
 
 ## About Laravel
