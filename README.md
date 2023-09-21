@@ -15,6 +15,10 @@ It'll download CSV with the calculated distance for each destination address fro
 Runs on URL: http://127.0.0.1:8000/downloadgeolocation-csv 
 Click on Download button to download CSV file.
 
+## Project Basic Requirements
+Laravel 10
+PHP 8.2+
+
 ## About Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
